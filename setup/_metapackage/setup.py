@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo11-addon-agreement',
+        'odoo11-addon-agreement_maintenance',
         'odoo11-addon-agreement_mrp',
         'odoo11-addon-agreement_project',
         'odoo11-addon-agreement_repair',
@@ -16,6 +17,7 @@ setuptools.setup(
         'odoo11-addon-agreement_stock',
         'odoo11-addon-contract',
         'odoo11-addon-contract_payment_mode',
+        'odoo11-addon-contract_price_revision',
         'odoo11-addon-contract_sale',
         'odoo11-addon-contract_sale_invoicing',
         'odoo11-addon-contract_section',
