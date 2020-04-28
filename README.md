@@ -7,12 +7,12 @@
 Odoo Contracts are special types of Analytic Accounts.
 This repository provides features extending Contracts.
 
-Dependencies on Project fetures should not be required.
+Dependencies on Project features should not be required.
 For Project related extensions please see the
 [OCA/Project](https://github.com/OCA/project) repository.
 
 
 ## Translation Status
-[![Transifex Status](https://www.transifex.com/projects/p/OCA-contract-12-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-contract-12-0)
+[![Translation Status](https://translation.odoo-community.org/widgets/contract-12-0/-/multi-auto.svg)](https://translation.odoo-community.org/engage/contract-12-0/?utm_source=widget)
 
 
